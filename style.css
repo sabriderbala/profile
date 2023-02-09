@@ -18,8 +18,8 @@ h1, h2, h3 {
 @media (max-width: 960px) {
   /* Pour un écran < 960px, cette classe CSS s'applique */
   .container {
-    width: 500px;
-    margin: 40px auto;
+    width: 700px;
+    margin: 0px auto;
   }
 }
 
@@ -27,7 +27,7 @@ h1, h2, h3 {
   /* Pour un écran < 720px, cette classe CSS s'applique */
   .container {
     width: 500px;
-    margin: 40px auto;
+    margin: 0px auto;
   }
 }
 
@@ -35,7 +35,7 @@ h1, h2, h3 {
   /* Pour un écran < 540px, cette classe CSS s'applique */
   .container {
     width: 300px;
-    margin: 40px auto;
+    margin: 0px auto;
   }
 }
 
